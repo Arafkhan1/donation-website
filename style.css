@@ -46,3 +46,138 @@ body {
     padding: 10px 30px;
     border-radius: 5px;
 }
+
+.center-text {
+    text-align: center;
+    width: 50px 50px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.flex-amount {
+    display: flex;
+    margin-bottom: 75px;
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 10px 10px 40px #aed3d0ef;
+    text-align: center;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.font-size {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.pick-color {
+    color: #bd6271;
+    font-size: 16px;
+}
+
+.hr-center {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.color-amount {
+    font-size: 18;
+    font-weight: 400;
+    color: #968487;
+}
+
+.new-button {
+    text-decoration: none;
+    background-color: #bd6271;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#box-color {
+    background-color: #f7a9a5;
+    border: 2px solid #d15755;
+    color: #d15755;
+}
+
+.main-container {
+    display: flex;
+    gap: 20px;
+    padding: 45px;
+}
+
+.icon-box {
+    background-color: #968487;
+    border: 1px solid tomato;
+    padding: 15px;
+    width: 100%;
+}
+
+#box-1 {
+    background-color: #EDF5F6;
+}
+
+#box-2 {
+    background: #FFEEEE;
+}
+
+#box-3 {
+    background: #FFF4D6;
+}
+
+.input-field {
+    background-color: #e4cc8c;
+    padding: 30px;
+    margin-top: 40px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.input-box {
+    width: 300px;
+    height: 30px;
+}
+
+#input-color {
+    width: 140px;
+    height: 34px;
+    background-color: tomato;
+    border: none;
+}
+
+.input-center {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #000000;
+}
+
+.foter-align {
+    text-align: center;
+}
+
+.footer-text {
+    color: #dd3b56;
+    text-align: center;
+}
+
+.footer-color {
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+}
