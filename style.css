@@ -186,6 +186,8 @@ footer {
 
 .parent-container {
     display: flex;
+    margin-top: 75px;
+    margin-bottom: 75px;
 }
 
 .half-side {
@@ -196,6 +198,7 @@ footer {
 
 .half-side img {
     width: 100%;
+    border-radius: 10px;
 }
 
 .second-button {
