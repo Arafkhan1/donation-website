@@ -147,7 +147,7 @@ body {
 }
 
 .input-box {
-    width: 300px;
+    width: 250px;
     height: 30px;
 }
 
@@ -156,6 +156,7 @@ body {
     height: 34px;
     background-color: tomato;
     border: none;
+    border-radius: 5px;
 }
 
 .input-center {
